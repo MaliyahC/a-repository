@@ -1,3 +1,3 @@
 # a-repository
 My first repository ya!
-i love :coffee: :taco:, :dancer:.
+i love :coffee: :taco:, :planes:.
